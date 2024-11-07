@@ -42,7 +42,7 @@
     "symfony/property-access": "6.4.*",
     "symfony/property-info": "6.4.*",
     "symfony/proxy-manager-bridge": "6.4.*",
-    "symfony/runtime": "6.4.*",
+    "symfony/runtime": "7.1.*",
     "symfony/security-bundle": "6.4.*",
     "symfony/serializer": "6.4.*",
     "symfony/string": "6.4.*",
